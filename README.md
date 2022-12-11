@@ -1,5 +1,10 @@
 # Latihan OOP pada python menggunakan class dan menginstansiasi sebuah class 
-Repository ini dibuat sebagai tugas kuliah bahasa pemrogramman
+
+# Nama : Saripudin
+# Nim  : 312210077
+# kls  : TI22B1
+
+
 
 1 Kita akan buat program crud sederhana dan berikut flowchart dan class diagram program yang akan dibuat.
 flowchart:
