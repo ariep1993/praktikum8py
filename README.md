@@ -11,7 +11,7 @@ class-diagram
 ![class-diagram](https://user-images.githubusercontent.com/115473865/206889713-7428be10-1c2b-4e7a-b861-f298275204f3.png)
 
 
-Lalu buka file Praktikum8py dan masukan codingan sebagai berikut, lalu run dengan mengetikan perintah berikut diterminal python Praktikum8py:
+2 Lalu buka file Praktikum8py dan masukan codingan sebagai berikut, lalu run dengan mengetikan perintah berikut diterminal python Praktikum8py:
 
 ![code](https://user-images.githubusercontent.com/115473865/206889739-85b41ce1-7b90-4959-a586-8e4b8739bcc3.png)
 
